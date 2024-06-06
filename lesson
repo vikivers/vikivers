@@ -2,3 +2,7 @@
 // let age = 17;
 // if (voteable = (age < 18) ? "Too young":"Old enough");
 // console.log(voteable)
+
+// let text1 = "What a very ";
+// text1 += "nice day";
+// console.log(text1)
